@@ -43,7 +43,7 @@
         <providermanagementVersion>2.5.0</providermanagementVersion>
         <metadatasharingVersion>1.2.2</metadatasharingVersion>
         <reportingVersion>0.10.4</reportingVersion>
-        <calculationVersion>1.2</calculationVersion>
+        <calculationVersion>1.2.1</calculationVersion>
         <idgenVersion>4.4.0</idgenVersion>
         <serializationVersion>0.2.12</serializationVersion>
         <dataexchangeVersion>1.3.2</dataexchangeVersion>
